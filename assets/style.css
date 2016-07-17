@@ -1,0 +1,610 @@
+
+.navbar {
+    height: 83px;
+    background-color: white;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+}
+
+.navbar .tabs{
+
+    position: absolute;
+    transform: translateY(100%)translateX(75%);
+
+}
+ .down{
+    margin:3%;
+   background-color:whitesmoke !important;
+     font-family:cursive !important;
+     color: #56bc94;
+        
+}
+.story-text{
+    font-size:17px !important;
+}
+.btn-groupp{display: block;
+color: #56bc94;}
+.down:hover{background-color: floralwhite;}
+.title-name {
+    position: absolute;
+/*    top:52%;*/
+    left:15%;
+    transform: translateY(100%)translateX(70%);
+    padding: 0px;
+    font-size: 28px; 
+    
+color: black !important;
+  
+}
+.logo {
+    position: absolute;
+    top:-1px;
+    left:15%;
+    transform: translateY(50%)translateX(0%);
+    padding: 0px;  
+}
+
+
+.title-name:hover{
+    color: black; 
+}
+.temporar-nav
+{   
+    background-color:#181818;
+    color:white;
+    font-size:25px !important;
+    font-family:"Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    height:45px;
+  
+}
+.temp:hover{
+background-color:rgba(255,255,255,0.05);
+     
+}
+
+.temp{
+    padding-left:15px;
+    height: 45px;
+    margin: 0px auto;
+    font-size:25px;
+  }
+.removed a p{
+    font-size:25px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    top: 0px;
+}
+
+
+.removed{
+    padding: 0px;
+    margin: 0 auto;
+    position: fixed;
+    top: 0px;
+}
+.removed a{
+    color:#bfbfbf;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    top: 0px;
+    letter-spacing: -1px;
+    line-height: 24px !important;
+    }
+.removed a:hover{    text-decoration: underline;
+    color:darkgray;
+    
+}
+.removed-btn{
+    padding: 0px;
+    margin: 0px;
+    
+   line-height: 24px !important;
+}
+.removed-btn button{
+    margin: 0px;
+    padding: 0px;
+}
+.body {    
+
+    padding: 0px;
+    margin-right: 0px;
+font-family: 'Lato', arial, sans-serif;
+}
+h2{
+    color: white !important ;
+        font-weight: 600 !imprtant;
+}
+
+ul li a{
+  color: black;
+  text-decoration: none;
+text-align: center;
+/*margin-right: 2.3%;*/
+}
+}
+.info ul li{
+    text-align: left;
+    
+}
+
+
+
+.container-fluid
+{font-family: Verdana, Helvetica, sans-serif;
+  height: 84px;
+}
+.container-fluid .tabs ul li a:hover{
+    text-decoration: none;
+    color: seagreen;
+}
+ul li {
+    list-style: none;
+    font-family: 'Lato', arial, sans-serif;
+    font-size:18px; 
+    color:#fff;
+  padding: 15px 10px 15px 10px;
+}
+.fa-dot-circle-o{
+    color: white;
+}
+.tabs ul li{
+    list-style: none;
+display: inline;
+font-size:14px; 
+}
+.caption h3{
+    color:#56bc94;
+    padding: 0px; 
+}
+ol li{
+    list-style: disc;
+    font-size: 50px;
+    text-decoration: none;
+    color:burlywood;
+    margin: 0 5px 0 3px;
+    padding: 0px;
+    
+}
+
+ol li:hover{
+    color:seagreen;
+     text-decoration: none;
+}
+.info 
+{ 
+    line-height: 1.42857143;
+    font-size: 14px ;
+    font-family: : 'Lato', arial, sans-serif;
+    font-weight: 300;
+    text-align: left;
+    margin-bottom: 15%;
+}
+.row .dropdown{
+    position: absolute;
+    right:0px;
+    top: 15px;
+    color: #56bc94;
+}
+
+
+
+.iphone img{
+    z-index=50;
+}
+
+.intro {
+  height: auto;
+  background-color: #56bc94; 
+
+  width: 100%;
+    margin-top:-20px;
+/*  padding-top:100px !important;*/
+}
+
+.fa-caption{    color:seagreen;
+    border:3px solid seagreen;
+    padding: 10%;
+    margin-top:10px;
+    border-radius: 50%;
+}
+.fa-caption:hover{    color:white;
+    background-color: seagreen;
+    border:3px solid seagreen;
+    padding: 10%;
+    margin-top:10px;
+    border-radius: 50%;
+}
+.caption{
+    text-align: center;
+    display: block;
+    
+
+}
+.fa-map-marker{
+    padding:;
+}
+
+.centerized{
+     display: flex;
+     flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content:center ;
+    text-align-last: center;
+}
+
+
+
+.btn-link{
+    color:seagreen !important;
+}
+section{
+    padding-top: 40px;
+    width: 100%;
+}
+
+p{
+    font-family: "Lato",arial,sans-serif;
+    font-size: 14px;
+}
+.thumbnail .caption p a{
+    color:seagreen;
+}
+.thumbnail{
+   height :350px ;
+    border:0px;
+/*    padding: 50px;*/
+    background-color: white;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+    box-shadow: 0 1px 2px rgba(0,0,0,.075);
+    border-style: hidden !important;
+    margin-bottom: 10%;
+}
+h1{
+  text-align: center;
+    margin: 0 auto !important;
+}
+.scan{margin: 0 auto;}
+.thumbnail .caption p a:hover{
+    text-decoration: none;
+}
+.qr{
+    position: relative;
+    width:100%;
+    margin: 0 auto;
+}
+.qr div p{
+    padding: 15%;
+}
+.fa-question-circle{
+    color: seagreen;
+}
+.FAQ .question{
+    background-color: #f5f5f5;
+    margin-bottom: 4%;
+    border-bottom: 3px solid #c4e7d9;
+    padding:5%;
+  
+}
+.how{
+background-color:#f5f5f5; 
+}
+.FAQ div p{
+  color:#777777;
+  padding: 20px;
+
+}
+.more-q{
+   display: block;
+    padding-bottom: 1%;
+    font-size: 24px;
+    
+}
+.btn-primary {
+    background-color:#56bc94 !important;
+}
+.btn-primary:hover{
+    background-color:seagreen !important;
+}
+.more-ques{
+    font-size: 24px;
+}
+.Story{
+    background-color: #56bc94;
+    color:white;
+    padding-left: 0px;
+    margin-right: 0px;
+/*    width:00%;*/
+    
+}
+.Story h1{
+   padding-bottom: 3%;
+   text-align: center;
+}
+.Story p ,.img-circle,i{
+/*    text-align: center;*/
+    font-weight: 300;
+    font-size: 20px;
+    font-family: 'Lato', arial, sans-serif;
+}
+.member .img-circle{
+    width:200px;
+    height: 200px;
+}
+
+.member {
+    align-content: center;
+    position: absolute;
+    transform:translateX(50%);
+    max-width: 200px;
+    margin-left:2%; 
+    
+    
+    
+    
+}
+
+.Story .row .member ul li{
+    display: inline-block;
+    list-style: none;
+    color:grey;
+    text-align: center;
+    text-align: center;
+     
+}
+.img-circle1{
+   float: left;
+    width: 80px;
+    height:80px;
+    margin-bottom: 3px;
+    }
+.person p{
+/*    margin-top: 15%;*/
+/*    padding-left: 5%;*/
+}
+.person span{
+    display:  block;
+}
+
+.comment{
+    background-color: #f5f5f5;
+    padding: 5%;
+    width: 100%;
+    border-top: 3px solid #56bc94;
+    margin-bottom: 5%;
+}
+.fa-quote-left{
+    color: seagreen;
+}
+
+
+
+
+.downl p{
+    position: absolute;
+/*    width: 100%;*/
+    transform: translateX(-15%);
+/*    left:15%;*/
+/*    margin: 0px auto;*/
+}
+.how-title {
+/*    padding-left: 35%;*/
+    text-align: justify;
+}
+.col-md-5 .scan{
+    margin-bottom: 5%;
+    text-align: center;
+/*    position: relative;*/
+/*    left:52%;*/
+    
+    
+}
+
+.item-inner{
+    margin-top:10%;
+/*    width:100%;*/
+    align-content: center;
+    border-radius: 10px;
+    background-color: white;
+}
+.item-inner h3{
+/*    text-align: center;*/
+    padding-top: 7%;
+}
+.heading{
+    background-color:#c4e7d9;
+    height: 150px;
+    padding-left: 0px;
+    position: relative;
+}
+.content ul li{
+    color:darkgray;
+    font-size: 15px;
+    text-align: center;
+    
+}
+.list-inline a{
+    color: gainsboro;
+    text-align: center;
+    font-size:40px;
+    font-family:fantasy ;
+    padding-right: 5%
+}
+.list-inline a:hover{
+    color: darkgray;
+    text-decoration: none;
+    text-align: center;
+    font-family:fantasy ;
+    font-size:40px;
+    
+}
+.note{
+    font-family: 'Covered By Your Grace', cursive; 
+    color: #56bc94;
+    font-size: 20px;
+}
+.fa-check{
+    color: #56bc94;
+}
+
+.pricing{
+        
+    background-color: #f5f5f5;
+        margin-bottom: 0px;
+}
+.fa-times{
+    color:gainsboro;;
+}
+.btn-block{
+    color: white;
+
+    background-color: #56bc94;
+}
+.btn-block:hover{
+    color: white !important;
+
+    background-color: seagreen;
+}
+.content{
+    padding: 45px 20px;
+    text-align: justify;
+    margin-top: 10%;
+}
+.heading{
+  
+    padding-top: 10px;;
+    padding-bottom: 0px;
+}
+.heading .price-figure{
+    margin: 0 auto;
+    padding: 7%;
+    border-radius: 70%;
+    height: 120px;
+    width:120px;
+    border:5px solid #c4e7e0;
+    background-color: #56bc94;
+    color: white;
+    position: relative;
+    
+}
+section .out-content{
+    padding: 2%;
+}
+.contact .out-content{
+   transform: skewY(0deg);
+   transform: skewY(0deg);
+}
+.number{
+    font-size: 25px;
+}
+.heading span{
+    
+    margin: 0px;
+
+    border-radius: 1000px ;
+}
+.heading .price-figure .price-figure-inner{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translateY(-50%)translateX(-50%);
+}
+.contact {
+    background-color: #56bc94;
+    color: white;
+/*    text-align: center;*/
+   
+    align-content: center;
+    transform: skewY(0deg)
+}
+.contact .out-content .row
+{
+    align-content: center;
+    text-align: center;
+    margin: 0px auto;
+/*    left: 50%;*/
+    position: relative;
+}
+.contact-details .fa ,.contact-details  a {
+    color:grey;
+    text-align: center;
+    align-content: center;
+}
+.text-center{
+    text-align: center;
+}
+.video-div{
+    padding: 0px;
+/*    position: absolute;*/
+/*    left:50%;*/
+/*    transform: translateX(-50%);*/
+/*    left:30%;*/
+    
+}
+.form-control{
+    margin-bottom: 2%;
+}
+.form1{
+    position: absolute;
+    transform: translateX(-50%);
+    left:50%;
+    
+}
+.row .col-md-6 .btn-theme{
+        background-color: #317b5e;
+        margin:0 auto;
+/*
+    position: relative;
+    left:50%;
+*/
+    
+}
+
+.list-unstyled{
+    position: relative;
+    margin: 0px auto;
+    width: 100%;
+    padding-left: 0px;
+}
+.pricing{
+    margin-bottom: 0px !important;
+}
+.contact {
+    padding-bottom: 0px;
+    margin-bottom: 0px !important;
+}
+section .out-content {
+ 
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+
+
+.details{
+    position: absolute;
+    top:10px;
+    left:85px;
+    
+}.list-inline{
+    display: block;
+}
+
+.person{
+    position: relative;
+}
+
+.col-1 {
+    padding:0px !important;
+    margin-left:0px !important;
+}
+.col-2{
+    margin-right: 0px !important;
+    padding-left: 
+    
+}
+
+ .thought {
+    margin:3%;
+     padding: 1%;
+}
